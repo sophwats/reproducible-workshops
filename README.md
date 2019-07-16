@@ -14,6 +14,10 @@ The repository contains the following contents:
     1. [`deploy.md`](./deploy/deploy.md) gives clear instructions on how to deploy the workshop both within and outside of RHPDS.
     2. a [`templates`](./deploy/templates) folder, containing any OpenShift templates required to deploy the workshop, as well as any Ansible roles and playbooks.
 
+* a [`slides`](./slides) folder conaining:
+    1. [`rendered`](./rendered) which should contain a [slides.pdf](./rendered/slides.pdf) file of the slides, as well as any rendered videos which are to be shown in the workshop
+    2. [`source`](./source) containing the source for the slides, either as a [powerpoint](./source/slides.pptx), google doc or keynote file.      
+
 Your workshop repository should contain:
 * a `README.md` file, containing basic, high-level information about the lab. It should contain the lab title, abstract, keywords, intended workshop length(s) and any other relevant information. 
 * a `source` folder, containing any Jupyter notebooks or other source material
