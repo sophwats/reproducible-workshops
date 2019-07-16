@@ -10,7 +10,9 @@ The repository contains the following contents:
     1. [`for-presenters.md`](./doc/for-presenters.md) should contain information to aid the presenter of the workshop - from background material adding context, to more general information on the structure and flow of the workshop, detailed information about the workshop content and any other suggestions for the presenter. 
     2. [`abstract.md`](./doc/abstract.md) should contain the workshop abstract.
 
-
+* a [`deploy`](./deploy) folder, containing: 
+    1. [`deploy.md`](./deploy/deploy.md) gives clear instructions on how to deploy the workshop both within and outside of RHPDS.
+    2. a [`templates`](./deploy/templates) folder, containing any OpenShift templates required to deploy the workshop, as well as any Ansible roles and playbooks.
 
 Your workshop repository should contain:
 * a `README.md` file, containing basic, high-level information about the lab. It should contain the lab title, abstract, keywords, intended workshop length(s) and any other relevant information. 
