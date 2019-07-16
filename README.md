@@ -4,11 +4,11 @@ This repository contains the materials and resources you need to create a reprod
 
 To get started with your own reproducible workshop, clone this repo and make sure your put all the required resorces into your own clone.
 
-The repository contains the following content: 
+The repository contains the following contents: 
 
-* a `doc` folder, containing two files:
-    1. `for-presenters.md` should contain information to aid the presenter of the workshop - from background material adding context, to more general information on the structure and flow of the workshop, detailed information about the workshop content and any other suggestions for the presenter. 
-    2. `abstract.md` should contain the workshop abstract.
+* a [`doc`](./doc) folder, containing two files:
+    1. [`for-presenters.md`](./doc/for-presenters.md) should contain information to aid the presenter of the workshop - from background material adding context, to more general information on the structure and flow of the workshop, detailed information about the workshop content and any other suggestions for the presenter. 
+    2. [`abstract.md`](./doc/abstract.md) should contain the workshop abstract.
 
 
 
