@@ -20,19 +20,17 @@ The repository contains the following contents:
 
 * a [`README.md`](.README.md) file, containing basic, high-level information about the lab. It should contain the lab title, abstract, keywords, intended workshop length(s) and any other relevant information. 
 
-* a `workshop.yaml` file, holding the following machine readable metadata:
+* a [`workshop.yaml`](./workshop.yaml) file, holding the following machine readable metadata:
     - name
     - authors
     - workshop duration
     - source repo
     - keywords
 
-
-* a [`source`](./source) folder, containing
+* a [`source`](./source) folder, containing:
     1. any code or Jupyter notebooks required to give the workshop
     2. data needed for the workshop
     3. a [`README.md`](./source/README.md) file, explaining all of the contents of the [`source`](./source) folder. 
-    4. workshop.yaml
-    5. resources.yaml
+
 
 
