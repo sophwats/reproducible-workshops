@@ -1,0 +1,18 @@
+--- 
+name: "TITLE OF WORKSHOP HERE"
+authors: 
+  - 
+    name: "Shadowman1"
+    email: 
+  - 
+    name: "Shadowman2"
+    email: 
+duration: "120 minutes"
+keywords: 
+  - OpenShift
+  - "machine learning"
+  - AI
+  - Jupyter
+  - Python
+  - workflow
+repo: "link to githubrepo here"
