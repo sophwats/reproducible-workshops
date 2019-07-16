@@ -2,7 +2,7 @@
 
 This repository contains the materials and resources you need to create a reproducible workshop.
 
-To get started with your own reproducible workshop, clone this repo and make sure your put all the required resources into your own copy.
+To get started with your own reproducible workshop, clone this repo and make sure your put all the required resources into your own copy. Many of the documents contain prompts for suggested content - take a look!
 
 The repository contains the following contents: 
 
@@ -11,10 +11,10 @@ The repository contains the following contents:
     2. [`abstract.md`](./doc/abstract.md) should contain the workshop abstract.
 
 * a [`deploy`](./deploy) folder, containing: 
-    1. [`deploy.md`](./deploy/deploy.md) gives clear instructions on how to deploy the workshop both within and outside of RHPDS.
+    1. [`deploy.md`](./deploy/deploy.md) which gives clear instructions on how to deploy the workshop both within and outside of RHPDS.
     2. a [`templates`](./deploy/templates) folder, containing any OpenShift templates required to deploy the workshop, as well as any Ansible roles and playbooks.
 
-* a [`slides`](./slides) folder conaining:
+* a [`slides`](./slides) folder containing:
     1. [`rendered`](./rendered) which should contain a [slides.pdf](./rendered/slides.pdf) file of the slides, as well as any rendered videos which are to be shown in the workshop
     2. [`source`](./source) containing the source for the slides, either as a [powerpoint](./source/slides.pptx), google doc or keynote file.      
 
