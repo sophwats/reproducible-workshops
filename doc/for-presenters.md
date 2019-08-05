@@ -27,8 +27,8 @@ What content could be extended?
 
 What content could be reduced, or removed, if necessary? 
 
-## Speakers Notes
+## Speaker Notes
 
-Include speakers notes, unless they are already present in the slides. 
+Include speaker notes, unless they are already present in the slides. 
 
 If you've given this workshop before and any recordings exist, please link to these here. 
